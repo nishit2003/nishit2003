@@ -2,7 +2,21 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grovernishit&color=blue)
 
-[![Nishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishit2003)](https://github.com/nishit2003/github-readme-stats)
+<div align="center" >
+<div  style="display: inline-flex; align-items: center;">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishit2003&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=prussian&border_radius=15&width=325&line_height=20" />
+</a>
+
+<hl/>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit2003&layout=compact&theme=prussian&&langs_count=6&hide_border=true&border_radius=15&" />
+</a>
+
+</div>
+</div>
 
 I’m a Computer Science senior at the University of Cincinnati, graduating in May 2025. I have a strong background in software development, data science, and web development. I'm passionate about solving complex problems and building scalable solutions.
 
