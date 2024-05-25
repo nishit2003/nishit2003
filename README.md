@@ -15,6 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit2003&layout=compact&theme=prussian&&langs_count=6&hide_border=true&border_radius=15&" />
 </a>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=nishit2003&theme=dark&hide_border=false)<br/>
 </div>
 </div>
 
