@@ -14,17 +14,17 @@ I’m a Computer Science senior at the University of Cincinnati, graduating in M
 ### Data Science and Visualization Project
 - **Description**: A data visualization project using Python to analyze CSV files, sort data, and generate various types of graphs.
 - **Technologies**: Python, NumPy, pandas, Matplotlib
-- **Repo**: [Data Science Project](https://github.com/grovernishit/data-science-visualization)
+- **Repo**: [Data Science Project]()
 
 ### Full Stack Developer Project
 - **Description**: A complete application built from scratch using Node.js, Express.js, MongoDB, and React. It includes RESTful APIs, CRUD operations, and a responsive single-page application.
 - **Technologies**: Node.js, Express.js, MongoDB, React, Vite, Tailwind CSS
-- **Repo**: [Full Stack Project](https://github.com/grovernishit/fullstack-app)
+- **Repo**: [Full Stack Project](https://github.com/nishit2003/BookStore)
 
 ## 💼 Experience
 ### Software Engineer Intern @ Intel
 - **Duration**: May 2024 - Aug 2024
-- **Role**: Developed large features affecting both internal and external customers.
+
 
 ### PDK Technical Intern @ Intel
 - **Duration**: May 2023 - Aug 2023
