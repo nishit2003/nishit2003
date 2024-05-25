@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grovernishit&color=blue)
 
-[![Nishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishit)](https://github.com/nishit2003/github-readme-stats)
+[![Nishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishit2003)](https://github.com/nishit2003/github-readme-stats)
 
 I’m a Computer Science senior at the University of Cincinnati, graduating in May 2025. I have a strong background in software development, data science, and web development. I'm passionate about solving complex problems and building scalable solutions.
 
