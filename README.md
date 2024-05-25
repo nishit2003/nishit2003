@@ -42,7 +42,6 @@ I’m a Computer Science senior at the University of Cincinnati, graduating in M
 ### Software Engineer Intern @ Intel
 - **Duration**: May 2024 - Aug 2024
 
-
 ### PDK Technical Intern @ Intel
 - **Duration**: May 2023 - Aug 2023
 - **Role**: Developed customized JIRA workflows and dashboards, created a comprehensive Power BI dashboard for issue tracking, and co-programmed a 5000+ lines Python script for a dashboard.
@@ -54,8 +53,8 @@ I’m a Computer Science senior at the University of Cincinnati, graduating in M
 ## 🎓 Education
 - **Bachelor of Science, Computer Science**
   - University of Cincinnati, Expected Graduation: May 2025
-  - GPA: 3.77
-  - Honors: 2x Dean’s List, CEAS International Outreach Scholarship, UC Global Scholarship, Transfer Ambassador @CEAS
+  - GPA: 3.8
+  - Honors: 4x Dean’s List, CEAS International Outreach Scholarship, UC Global Scholarship, Transfer Ambassador @CEAS
 
 ## 📫 Contact Me
 - **Email**: grovernt@mail.uc.edu
