@@ -6,7 +6,7 @@
 <div  style="display: inline-flex; align-items: center;">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishit2003&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=prussian&border_radius=15&width=325&line_height=20&hide=stars" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishit2003&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=prussian&border_radius=15&width=325&line_height=20&hide=stars" />
 </a>
 
 <hl/>
