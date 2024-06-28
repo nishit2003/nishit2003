@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nishit Grover
 
-![Profile Views](https://komarev.com/ghpvc/?username=grovernishit&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=nishit2003&color=blue)
 
 <div align="center" >
 <div  style="display: inline-flex; align-items: center;">
