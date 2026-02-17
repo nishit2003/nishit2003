@@ -5,15 +5,15 @@
 <div align="center" >
 <div  style="display: inline-flex; align-items: center;">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishit2003&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=prussian&border_radius=15&width=325&line_height=20&hide=stars" />
-</a>
+</a> -->
 
 <hl/>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit2003&layout=compact&theme=prussian&&langs_count=6&hide_border=true&border_radius=15&" />
-</a>
+</a> -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishit2003&theme=dark&hide_border=false)<br/>
 </div>
